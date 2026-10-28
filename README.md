@@ -1,4 +1,4 @@
-# Engenharia-Informatica-2
+# Engenharia-Informatica-2 - ConTXTo
 Trabalho de Engenharia Informática 2 - 3º ano de Engenharia Informática (2026/2027)
 
 ## Participantes:
